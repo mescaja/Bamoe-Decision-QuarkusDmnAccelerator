@@ -73,5 +73,5 @@ The `src/main/resources/application.properties` file contains the basic properti
 
 - DevServices for BAMOE
 
-Add any additional code, BAMOE resource files, and/or properties to their appropriate places following Apache Maven's standard project layout.
+Add any additional code, BAMOE resource files, and/or properties to their appropriate places following Apache Maven's standard project layout..
 
